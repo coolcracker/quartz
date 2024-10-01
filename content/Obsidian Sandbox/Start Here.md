@@ -1,3 +1,8 @@
+---
+title: "{{filename}}"
+draft: false
+tags:
+---
 Hi, welcome to Obsidian!
 
 ---

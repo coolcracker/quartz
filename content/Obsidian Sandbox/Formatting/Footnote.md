@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 ```md
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 

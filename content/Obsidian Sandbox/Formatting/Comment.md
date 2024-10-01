@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 Use `%%` to enclose comments, which will be parsed as Markdown, but will not show up in the preview.
 
 ```md

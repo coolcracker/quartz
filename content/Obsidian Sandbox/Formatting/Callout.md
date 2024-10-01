@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 As of v0.14.0, Obsidian supports callout blocks, sometimes called "admonitions". Callout blocks are written as a blockquote, inspired by the "alert" syntax from Microsoft Docs.
 
 Callouts are also be supported natively on Obsidian Publish.

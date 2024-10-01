@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 ```md
 - [x] #tags, [links](), **formatting** supported
 - [x] list syntax required (any unordered or ordered list supported)

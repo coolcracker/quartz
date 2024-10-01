@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 ```md
 Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 ```

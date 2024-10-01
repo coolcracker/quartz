@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 Embed another file (read more about [[Embeds]]). Here's an embedded section:
 
 ```md

@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 ```md
 ![Obsidian](https://obsidian.md/images/banner.png)
 ```

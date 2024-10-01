@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 ```md
 $$\begin{vmatrix}a & b\\
 c & d

@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 You may have heard that Obsidian is very complicated to set up.
 
 We don’t think that’s true—the ideal setup would be complicated, but that’s true for all tools. It just takes lots of trial and error to get something that works well for you. Instead of complicated, we would call that a labor of love.

@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 ```md
 Text inside `backticks` on a line will be formatted like code.
 ```

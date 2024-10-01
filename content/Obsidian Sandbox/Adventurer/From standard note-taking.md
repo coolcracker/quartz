@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 Great, that means you should already be familiar with taking notes!
 
 But hold on a second. There’s no silver bullet solution that works perfectly for everyone. Obsidian works best if you care about what we care about.

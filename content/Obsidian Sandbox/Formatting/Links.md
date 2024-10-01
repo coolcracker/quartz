@@ -1,3 +1,8 @@
+---
+title: <% tp.file.title %>
+draft: false
+tags: ""
+---
 #### External links
 
 Markdown style links can be used to refer to either external objects, such as web pages, or an internal page or image.
