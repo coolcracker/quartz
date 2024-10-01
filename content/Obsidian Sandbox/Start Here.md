@@ -1,7 +1,6 @@
 ---
-title: "{{filename}}"
 draft: false
-tags:
+tags: 
 ---
 Hi, welcome to Obsidian!
 
